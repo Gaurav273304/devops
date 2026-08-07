@@ -1,0 +1,11 @@
+INFO Server Started
+INFO Database Connected
+WARNING Disk Usage 75%
+ERROR Database Connection Failed
+INFO User Login
+WARNING Memory Usage High
+ERROR Login Failed
+INFO Backup Completed
+ERROR Disk Full
+INFO Server Shutdown
+

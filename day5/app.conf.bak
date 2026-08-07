@@ -1,0 +1,6 @@
+SERVER=nginx
+PORT=8080
+HOST=localhost
+MODE=development
+SERVER=nginx
+PORT=8080
